@@ -1,0 +1,4 @@
+(executable
+ (public_name cmarkit)
+ (name cmd_main)
+ (libraries cmarkit cmdliner))
